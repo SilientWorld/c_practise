@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="100-999的质数判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n行菱形（函数调用）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列（非数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘（递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘（非递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换%28十转X%29（非指针）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="九九加法表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵输出（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵转置（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="累加.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序输出（递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序输出（非递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图形打印.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="辗转相除法（递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="辗转相除法（非递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最值均值（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组插入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组删除.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="去掉最值求均值（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="对称矩阵（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整除问题（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据筛查.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换（十转X）（指针）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择法排序（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵相乘（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵相加  %28数组%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵对角线和（数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="正负数（动态数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵马鞍点（动态数组）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="约瑟夫环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计字母、数字、字符个数（字符串）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串运用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串回文.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串逆置.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体变量定义及使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="学生成绩排名（1）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="学生成绩排名（2）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="用户电影评分.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表的输入、打印和释放.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="从链表中删除一些数据.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="从链表中插入一些数据.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
